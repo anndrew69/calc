@@ -1,0 +1,10 @@
+C:\Users\Ondra\source\repos\calcuator\calcuator\bin\Debug\calcuator.exe.config
+C:\Users\Ondra\source\repos\calcuator\calcuator\bin\Debug\calcuator.exe
+C:\Users\Ondra\source\repos\calcuator\calcuator\bin\Debug\calcuator.pdb
+C:\Users\Ondra\source\repos\calcuator\calcuator\obj\Debug\calcuator.csprojAssemblyReference.cache
+C:\Users\Ondra\source\repos\calcuator\calcuator\obj\Debug\calcuator.Form1.resources
+C:\Users\Ondra\source\repos\calcuator\calcuator\obj\Debug\calcuator.Properties.Resources.resources
+C:\Users\Ondra\source\repos\calcuator\calcuator\obj\Debug\calcuator.csproj.GenerateResource.cache
+C:\Users\Ondra\source\repos\calcuator\calcuator\obj\Debug\calcuator.csproj.CoreCompileInputs.cache
+C:\Users\Ondra\source\repos\calcuator\calcuator\obj\Debug\calcuator.exe
+C:\Users\Ondra\source\repos\calcuator\calcuator\obj\Debug\calcuator.pdb
